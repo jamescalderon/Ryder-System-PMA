@@ -1,11 +1,11 @@
-<mat-card class="ak-card">
+<mat-card class="ak-card card-wrapper">
   <ng-container *ngIf="cardIcon || cardTitle || cardSubTitle">
     <mat-card-header>
       <ng-container *ngIf="cardIcon">
         <mat-icon mat-card-avatar class="icon">{{ cardIcon }}</mat-icon>
       </ng-container>
       <ng-container *ngIf="cardTitle">
-        <mat-card-title>{{ cardTitle }}</mat-card-title>
+        <mat-card-title class="card-title">{{ cardTitle }}</mat-card-title>
       </ng-container>
       <ng-container *ngIf="cardSubTitle">
         <mat-card-subtitle>{{ cardSubTitle }}</mat-card-subtitle>

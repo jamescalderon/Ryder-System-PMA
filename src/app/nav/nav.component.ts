@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import {MatToolbarModule} from '@angular/material/toolbar';
 
+
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
@@ -8,7 +9,9 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 })
 export class NavComponent implements OnInit {
 
-  @Input() title: string;
+  @Input() titleNav: string;
+  @Input() iconNav: string;
+
 
   constructor() { }
 

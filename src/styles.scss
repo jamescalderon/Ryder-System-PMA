@@ -3,13 +3,13 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Roboto', sans-serif; }
 
-card-wrapper {
+.card-wrapper {
   border: 1px solid rgba(0,0,0,.03);
   box-shadow: 0 2px 2px rgba(0,0,0,.24), 0 0 2px rgba(0,0,0,.12);
   margin: 4px;
 }
 
-card-title {
+.card-title {
   align-content: center;
   align-items: center;
   display: flex;

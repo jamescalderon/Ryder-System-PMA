@@ -13,6 +13,8 @@ import { BusModelComponent } from './bus-model/bus-model.component';
 import { ReferencesComponent } from './references/references.component';
 
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -32,4 +34,6 @@ import { ReferencesComponent } from './references/references.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+// data = data;
+ }

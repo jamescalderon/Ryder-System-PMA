@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import 'hammerjs';
+import data from './common/data/dataFile.json';
 
 @Component({
   selector: 'app-root',
@@ -7,5 +8,6 @@ import 'hammerjs';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Air France - KLM Process Model and Analysis';
+  title = data.site.title;
+  icon = data.site.navIcon;
 }

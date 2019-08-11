@@ -1,0 +1,61 @@
+{
+  "site": {
+    "title": "Ryder System Model and Analysis",
+    "navIcon": "local_shipping_outline",
+    "author": "James Calderon"
+  },
+  "links": {
+    "processFlow": [
+      {
+        "title": "Current process Flow",
+        "subTitle": "",
+        "contentText": "vwrevgrv vbwerbvre",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "./images/security-process.png",
+        "imageHeight": "auto",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 2
+      },
+      {
+        "title": "Current process Flow",
+        "subTitle": "",
+        "contentText": "",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "",
+        "imageHeight": "auto",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 2
+      },
+      {
+        "title": "Current process Flow",
+        "subTitle": "",
+        "contentText": "",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "",
+        "imageHeight": "auto",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 2
+      },
+      {
+        "title": "Current process Flow",
+        "subTitle": "",
+        "contentText": "",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "",
+        "imageHeight": "auto",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 2
+      }
+    ],
+    "businessModel": [],
+    "references": []
+  }
+}
