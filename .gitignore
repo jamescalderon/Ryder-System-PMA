@@ -33,7 +33,12 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+*dump*
+*bkup*
+*temp*
 
 # System Files
 .DS_Store
 Thumbs.db
+
+#
