@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Tile } from '../common/models/content';
 import data from './../common/data/dataFile.json';
 
 @Component({
@@ -9,9 +8,6 @@ import data from './../common/data/dataFile.json';
 })
 export class ProcessFlowComponent implements OnInit {
   tiles = data.links.processFlow;
-
-
-
 
   constructor() { }
 

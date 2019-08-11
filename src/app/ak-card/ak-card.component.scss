@@ -1,4 +1,11 @@
-.ak-card{
-  width: 100%;
-  background-size: cover;
+.example-card {
+  // max-width: 75%;
+  max-width: 65%;
+  align-self: center;
+
+}
+
+.mat-card-image{
+padding: 24px;
+max-width: 100%;
 }

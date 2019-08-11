@@ -9,6 +9,9 @@ export class AkCardComponent implements OnInit {
   @Input() cardIcon: string;
   @Input() cardTitle: string;
   @Input() cardSubTitle: string;
+  @Input() cardImg: string;
+  @Input() cardText: string;
+
 
   constructor() {}
 

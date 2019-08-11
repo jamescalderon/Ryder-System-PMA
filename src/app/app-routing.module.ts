@@ -8,7 +8,7 @@ import {ReferencesComponent} from './references/references.component';
 const routes: Routes = [
 {
   path: '',
-    component: WelcomeComponent,
+    component: ProcessFlowComponent,
 },
 {
   path: 'processFlow',

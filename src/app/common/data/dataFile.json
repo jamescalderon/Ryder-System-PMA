@@ -7,55 +7,90 @@
   "links": {
     "processFlow": [
       {
-        "title": "Current process Flow",
+        "title": "Current Security Responce Flow",
         "subTitle": "",
-        "contentText": "vwrevgrv vbwerbvre",
+        "contentText": "Ryder System prides itself on maintaining their system secure. Although security is a priority, the response flow for a security breach is somewhat limited (Ludwig, 2017).",
         "color": "lightgrey",
         "link": "",
-        "imgLink": "./images/security-process.png",
-        "imageHeight": "auto",
+        "imgLink": "./../../assets/security-process.png",
+        "imageHeight": "200px",
         "imageWidth": "auto",
         "cols": 2,
-        "rows": 2
+        "rows": 10
       },
       {
-        "title": "Current process Flow",
+        "title": "Sleeper Tractor Rental",
         "subTitle": "",
-        "contentText": "",
+        "contentText": "Example of Ryder’s heavy-duty long haul sleeper tractor which companies may lease (Ryder System, 2019).",
         "color": "lightgrey",
         "link": "",
-        "imgLink": "",
-        "imageHeight": "auto",
+        "imgLink": "./../../assets/08a_Sleeper.jpg",
+        "imageHeight": "200px",
         "imageWidth": "auto",
         "cols": 2,
-        "rows": 2
+        "rows": 5
       },
       {
-        "title": "Current process Flow",
+        "title": "Medium-duty Commercial Truck",
         "subTitle": "",
-        "contentText": "",
+        "contentText": "Example of Ryder’s medium duty truck, which competes with U-Haul in the commercial and residential markets (Ryder System, 2019).",
         "color": "lightgrey",
         "link": "",
-        "imgLink": "",
-        "imageHeight": "auto",
+        "imgLink": "./../../assets/04a_StraightTruck.jpg",
+       "imageHeight": "200px",
         "imageWidth": "auto",
         "cols": 2,
-        "rows": 2
-      },
-      {
-        "title": "Current process Flow",
-        "subTitle": "",
-        "contentText": "",
-        "color": "lightgrey",
-        "link": "",
-        "imgLink": "",
-        "imageHeight": "auto",
-        "imageWidth": "auto",
-        "cols": 2,
-        "rows": 2
+        "rows": 5
       }
+
     ],
-    "businessModel": [],
-    "references": []
+    "businessModel": [
+      {
+        "title": "Proposed Security Responce Flow",
+        "subTitle": "",
+        "contentText": "By employing a powerful artificial intelligence (AI), the system can intercept security breaches in real-time, this leading to a much higher success rate of prevention.",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "./../../assets/security-process-ideal.png",
+        "imageHeight": "200px",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 7
+      },
+      {
+        "title": "Average Cost of US Security Breach",
+        "subTitle": "",
+        "contentText": "The calculated cost of US security breaches (Sydny Shepard, 2018).",
+        "color": "lightgrey",
+        "link": "",
+        "imgLink": "./../../assets/AvgCost.png",
+        "imageHeight": "200px",
+        "imageWidth": "auto",
+        "cols": 2,
+        "rows": 7
+      }
+
+    ],
+    "references": [
+      {
+        "color": "lightgrey",
+        "ref":"The calculated cost of US security breaches (Ludwig, S. (2017, May 02). How Ryder System Focuses on Incident Prevention for Security Success. Retrieved from https://www.securitymagazine.com/articles/87990-how-ryder-systems-focuses-on-incident-prevention-for-security-success",
+        "cols": 4,
+        "rows": 1
+      },
+      {
+        "color": "lightgrey",
+        "ref":"Ryder System. (2019). Sleeper Tractor Rental. Retrieved from https://reservations.ryder.com/en/rental-vehicles/tractor-rentals/sleeper-tractor",
+        "cols": 4,
+        "rows": 1
+      },
+      {
+        "color": "lightgrey",
+        "ref":"Sydny Shepard, 2. (2018). The Average Cost of a Data Breach. Retrieved from https://securitytoday.com/articles/2018/07/17/the-average-cost-of-a-data-breach.aspx Sydny Shepard, 2018).",
+        "cols": 4,
+        "rows": 1
+      }
+
+    ]
   }
 }

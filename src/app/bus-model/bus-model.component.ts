@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import data from './../common/data/dataFile.json';
 
 @Component({
   selector: 'app-bus-model',
@@ -6,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./bus-model.component.scss']
 })
 export class BusModelComponent implements OnInit {
-
+  tiles = data.links.businessModel;
   constructor() { }
 
   ngOnInit() {
